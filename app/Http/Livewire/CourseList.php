@@ -2,7 +2,7 @@
 
 namespace App\Http\Livewire;
 
-use App\Models\{Course, User};
+use App\Models\Course;
 use Livewire\Component;
 
 class CourseList extends Component
